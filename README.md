@@ -24,6 +24,7 @@ Following are some features that I have  added in this project:
 7.Generates all components of salary 
 
 MAJOR OPERATIONS PERFORMED 
+
 insert_rec( )
 This feature is used to add a new employee record to the department 
 It consists of details line name, ID , designation, CTC , attendance ,etc 
